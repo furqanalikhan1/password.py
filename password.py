@@ -6,10 +6,10 @@ st.set_page_config(page_title="Password Strength Checker By Furqan Ali Khan", pa
 #cuctom  css
 st.markdown(""" 
 <style>
-    .main{text-align: center;}
-    .stTextInput {width :60% !important: margin:}
-    .stButton button {width: 50%; background-color #4CAF50; color:white; font-size:18px;}
-    .stButton button {background-color: #45a049;}
+   .main{text-align: center;}
+    .stTextInput {width :60% !important; margin:auto; }
+    .stButton button {width: 50%; background-color :bule; color:white; font-size:18px;}
+    .stButton button {background-color: red; color: white;}
  </styl>       
 
 """,unsafe_allow_html=True)
